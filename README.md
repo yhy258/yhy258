@@ -25,9 +25,9 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 
 
 
-### Vibe Playing 🎧
+### Music Playlist 🎧
 
-<br/>🎶🎶🎶 [Black Skirt Album : Thirsty](https://www.youtube.com/watch?v=WYPyun0nMv0)
+<br/> 🎶🎶🎶 [Black Skirt Album : Thirsty](https://www.youtube.com/watch?v=WYPyun0nMv0)
 <br/><br/>
 
 ---
@@ -80,7 +80,7 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 
 ---
 
-### ⭐️ From [Seow](https://github.com/yhy258) ### 
+### ⭐️ From [Seow](https://github.com/yhy258) ! ### 
 
 ---
 
