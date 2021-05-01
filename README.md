@@ -6,18 +6,24 @@
  
 # Hi there, I'm JoonHyuk Seo - aka [Seow](https://velog.io/@yhyj1001) <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://user-images.githubusercontent.com/33916246/116786164-309a2b80-aad8-11eb-80c2-dce96af29195.png" />
+<img align="right" alt="GIF" height="240px" src="https://user-images.githubusercontent.com/33916246/116786164-309a2b80-aad8-11eb-80c2-dce96af29195.png" />
 
 ## I'm a Machine Learning Student
 
-- 👨‍💻 I’m currently working on Computer Vision technologies like Transformer, Gan etc.
-- 📚 I’m currently learning everything about Transformer (especially, Object Detection)
-- 💪🏼 Future Goals: I want to enter the graduate school I want and do the research I want.
-- ⚡ Fun fact: I love to play LoL and exercise.
+- 👨‍💻  저는 컴퓨터 비전에 대해 공부를 열심히 하고 있습니다. (특히 최근에는 Transformer에 관심이 많습니다 😏)  
+I’m currently working on Computer Vision technologies like Transformer, Gan etc.
+- 📚 지금은 Object Detection을 위한 Transformers 및 Reinforcement Learning도 조금 공부하기 시작했습니다 :)  
+I’m currently learning everything about Transformer (especially, Object Detection)
+- 💪🏼 미래의 목표 : 제가 원하는 대학원에 들어가서 제가 원하는 분야를 연구하는 것 입니다.  
+Future Goals: I want to enter the graduate school I want and do the research I want.
+- 🥳 Fun fact: 저는 음악(특히 한국 인디 음악) 을 듣는 것과 운동하는 것을 좋아합니다.  
+I love to listen music (especially, Korean Indie Music) and exercise.
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" height = "170" src="https://b-zinga.com/wp-content/uploads/2019/03/YouTube-logo-600x489.jpg"/>
+
+
 
 ### Vibe Playing 🎧
 
@@ -26,7 +32,6 @@
 
 ---
 
-<img align="right" height = "300px" src="https://b-zinga.com/wp-content/uploads/2019/03/YouTube-logo-600x489.jpg"/>
 
 ### Contact with me 📝
 
