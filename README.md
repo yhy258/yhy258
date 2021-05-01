@@ -33,22 +33,22 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 
 ---
 ### My Github
-- Classification
+- 💫 **Classification**
 	- ResNet 34 *github : https://github.com/yhy258/Resnet_34*
 	- Stochastic Depth *github : https://github.com/yhy258/Stochastic_depth_resnet50*
 	- EfficientNet *github : https://github.com/yhy258/pytorch_EfficientNet*
-- Object Detection
+- 💫 **Object Detection**
 	- FPN *github : https://github.com/yhy258/FPN_Resnet*
 	- DETR (Just Architecture) *github : https://github.com/yhy258/DETR-For-Study*
-- Generative
+- 💫 **Generative**
 	- Conditional GAN *github : https://github.com/yhy258/ConditionalGAN*
 	- Accelerated WGAN-GP  *github : https://github.com/yhy258/Accelerated-WGAN-GP*
 	- VAE *github : https://github.com/yhy258/VAE*
-- Super Resolution
+- 💫 **Super Resolution**
 	- SRCNN *github : https://github.com/yhy258/SRCNN*
 	- SRGAN *github : https://github.com/yhy258/SRGAN*
-- 단단한 강화학습 *github : https://github.com/yhy258/ReinforceLearning-Study*
-- 
+- 💫 **단단한 강화학습** *github : https://github.com/yhy258/ReinforceLearning-Study*
+
 
 ---
 
