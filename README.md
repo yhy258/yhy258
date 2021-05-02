@@ -22,13 +22,14 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 
 ---
 
-<img align="right" height = "170" src="https://b-zinga.com/wp-content/uploads/2019/03/YouTube-logo-600x489.jpg"/>
+<img align="right" height = "120" src="https://b-zinga.com/wp-content/uploads/2019/03/YouTube-logo-600x489.jpg"/>
 
 
 
 ### Music Playlist 🎧
 
-<br/> 🎶🎶🎶 [Black Skirt Album : Thirsty](https://www.youtube.com/watch?v=WYPyun0nMv0)
+<br/> 🎶🎶🎶 [Black Skirt Album : Thirsty](https://www.youtube.com/watch?v=WYPyun0nMv0)<br/>
+🎶🎶🎶 [Jai Paul : Leak 04-13](https://www.youtube.com/watch?v=97YvkYlfibU&t=1390s)
 <br/><br/>
 
 ---
