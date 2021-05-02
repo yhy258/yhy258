@@ -6,7 +6,7 @@
  
 # Hi there, I'm JoonHyuk Seo - aka [Seow](https://velog.io/@yhyj1001) <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="240px" src="https://user-images.githubusercontent.com/33916246/116786164-309a2b80-aad8-11eb-80c2-dce96af29195.png" />
+<img align="right" alt="GIF" height="240px" src="https://user-images.githubusercontent.com/33916246/116817592-19277500-aba2-11eb-9714-78d7b3c81d2f.png" />
 
 ## 저는 AI를 공부하는 학생입니다.
 ## I am a student who studies artificial intelligence.
