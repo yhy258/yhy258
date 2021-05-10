@@ -38,8 +38,8 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 	- ResNet 34　　　　　　　　*github : https://github.com/yhy258/Resnet_34*
 	- Stochastic Depth 　　　*github : https://github.com/yhy258/Stochastic_depth_resnet50*
 	- EfficientNet　　　　　　*github : https://github.com/yhy258/pytorch_EfficientNet*
-	- ViT			*github : https://github.com/yhy258/ViT-Simple*
-	- Swin Transformer(Non mask)  *github : https://github.com/yhy258/SwinTransformer_nonmask*
+	- ViT　　　　　　          *github : https://github.com/yhy258/ViT-Simple*
+	- Swin Transformer(Non mask)    *github : https://github.com/yhy258/SwinTransformer_nonmask*
 - 💫 **Object Detection**
 	- FPN　　　　　　　　　　　*github : https://github.com/yhy258/FPN_Resnet*
 	- DETR (Just Architecture)　　　　*github : https://github.com/yhy258/DETR-For-Study*
