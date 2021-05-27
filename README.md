@@ -52,10 +52,13 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 - 💫 **Super Resolution**
 	- SRCNN　　　　　　　　　　*github : https://github.com/yhy258/SRCNN*
 	- SRGAN　　　　　　　　　　*github : https://github.com/yhy258/SRGAN*
+	- EDSR, MDSR　　　　　　　*blog : https://deepseow.tistory.com/8?category=947210*
+	- SRFBN　　　　　　　　　　*blog :https://deepseow.tistory.com/10?category=947210*
 - 💫 **Unsupervised Learning**
 	- Context Prediction　　　　　　　　　　*github : https://github.com/yhy258/context_prediction_stl10*
 - 💫 **단단한 강화학습**　　　　　　　*github : https://github.com/yhy258/ReinforceLearning-Study*
-- 💫 **Image Tracking Study**　　　　　　*github : https://github.com/yhy258/ImageTrackingStudy/blob/main/SSD.ipynb*
+- 💫 **Image Tracking Study**  
+	- SSD Object Detection　　　　　　*github : https://github.com/yhy258/ImageTrackingStudy/blob/main/SSD.ipynb*
 
 
 ---
