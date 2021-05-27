@@ -11,7 +11,7 @@
 ## 저는 AI를 공부하는 학생입니다.
 ## I am a student who studies artificial intelligence.
 
-- 👨‍💻  저는 컴퓨터 비전에 대해 공부를 열심히 하고 있습니다. (특히 최근에는 Object Detection에 관심이 많습니다 😏)  
+- 👨‍💻  저는 컴퓨터 비전에 대해 공부를 열심히 하고 있습니다. 
 I’m currently working on Computer Vision technologies like Transformer, Gan etc.
 - 📚 지금은 Object Detection을 위한 Transformers 및 양자 컴퓨팅도 조금 공부하기 시작했습니다 :)  
 I’m currently learning everything about Transformer (especially, Object Detection)
