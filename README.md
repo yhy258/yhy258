@@ -55,6 +55,7 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 - 💫 **Unsupervised Learning**
 	- Context Prediction　　　　　　　　　　*github : https://github.com/yhy258/context_prediction_stl10*
 - 💫 **단단한 강화학습**　　　　　　　*github : https://github.com/yhy258/ReinforceLearning-Study*
+- 💫 **Image Tracking Study**　　　　　　*github : https://github.com/yhy258/ImageTrackingStudy/blob/main/SSD.ipynb*
 
 
 ---
