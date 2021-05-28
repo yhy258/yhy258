@@ -115,7 +115,7 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 
 ---
 
-[website]: https://velog.io/@yhyj1001
+[website]: https://deepseow.tistory.com/
 [instagram]: https://www.instagram.com/oz__oo__/
 
 
@@ -123,4 +123,4 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 ----
 Credit: [Seow](https://github.com/yhy258)
 
-Last Edited on: 02/05/2021
+Last Edited on: 29/05/2021
