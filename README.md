@@ -13,8 +13,8 @@
 
 - 👨‍💻  저는 컴퓨터 비전에 대해 공부를 열심히 하고 있습니다.  
 I’m currently working on Computer Vision technologies like Transformer, Gan etc.
-- 📚 지금은 Object Detection을 위한 Transformers 및 양자 컴퓨팅도 조금 공부하기 시작했습니다 :)  
-I’m currently learning everything about Transformer (especially, Object Detection)
+- 📚 지금은 수학에 대한 토대를 다지고 있고 비전의 여러 분야를 경험하려고 노력 중입니다.
+Now I am laying the foundation for mathematics and trying to experience various fields of vision.
 - 💪🏼 미래의 목표 : 제가 원하는 대학원에 들어가서 제가 원하는 분야를 연구하는 것 입니다.  
 Future Goals: I want to enter the graduate school I want and do the research I want.
 - 🥳 Fun fact: 저는 음악(특히 한국 인디 음악) 을 듣는 것과 운동하는 것을 좋아합니다.  
