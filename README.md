@@ -59,6 +59,7 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 - 💫 **단단한 강화학습**　　　　　　　*github : https://github.com/yhy258/ReinforceLearning-Study*
 - 💫 **Image Tracking Study**  
 	- SSD Object Detection　　　　　　*github : https://github.com/yhy258/ImageTrackingStudy/blob/main/SSD.ipynb*
+	- SORT Algorithm with explanation　　　　　　*github : https://github.com/yhy258/ImageTrackingStudy/blob/main/SORT.ipynb
 
 
 ---
