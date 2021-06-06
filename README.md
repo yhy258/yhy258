@@ -60,7 +60,7 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 - 💫 **Image Tracking Study**  
 	- SSD Object Detection　　　　　　*github : https://github.com/yhy258/ImageTrackingStudy/blob/main/SSD.ipynb*
 	- SORT Algorithm with explanation　　　　　　*github : https://github.com/yhy258/ImageTrackingStudy/blob/main/SORT.ipynb*
-	- Tracktor　　　　　　　　　　　*github :  https://github.com/yhy258/ImageTrackingStudy/blob/main/Tracktor.ipynb
+	- Tracktor　　　　　　　　　　　*github :  https://github.com/yhy258/ImageTrackingStudy/blob/main/Tracktor.ipynb*
 
 
 
