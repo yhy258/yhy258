@@ -49,6 +49,8 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 	- Conditional GAN　　　　*github : https://github.com/yhy258/ConditionalGAN*
 	- Accelerated WGAN-GP　　*github : https://github.com/yhy258/Accelerated-WGAN-GP*
 	- VAE　　　　　　　　　　　　*github : https://github.com/yhy258/VAE*
+	- FARGAN　　　　　　　*github : https://github.com/yhy258/Simple_FARGAN*
+	- CircleGAN　　　　　　　*github : https://github.com/yhy258/Simple-Circle-GAN*
 - 💫 **Super Resolution**
 	- SRCNN　　　　　　　　　　*github : https://github.com/yhy258/SRCNN*
 	- SRGAN　　　　　　　　　　*github : https://github.com/yhy258/SRGAN*
