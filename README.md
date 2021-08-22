@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" height="240px" src="https://user-images.githubusercontent.com/33916246/116817592-19277500-aba2-11eb-9714-78d7b3c81d2f.png" />
 
 ## 저는 AI를 공부하는 학생입니다.
-## I am a student who studies artificial intelligence. (VI)
+## I am a student who studies artificial intelligence.  
 
 - 👨‍💻  저는 컴퓨터 비전에 대해 공부를 열심히 하고 있습니다.  
 I’m currently working on Computer Vision technologies like Transformer, Gan etc.
