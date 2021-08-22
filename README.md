@@ -46,6 +46,7 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 	- DETR (Just Architecture)　　　　*github : https://github.com/yhy258/DETR-For-Study*
 	- Deformable Attention Module (DETR)  *github : https://github.com/yhy258/Deformable_Attention__DeformableDETR*
 - 💫 **Generative**
+	- FID, IS (Evaluate GAN) 　　　　*github : https://github.com/yhy258/Pytorch_FID_IS_FOR_GAN*
 	- Conditional GAN　　　　*github : https://github.com/yhy258/ConditionalGAN*
 	- Accelerated WGAN-GP　　*github : https://github.com/yhy258/Accelerated-WGAN-GP*
 	- VAE　　　　　　　　　　　　*github : https://github.com/yhy258/VAE*
