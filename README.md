@@ -31,7 +31,7 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 <br/> 🎶🎶🎶 [Black Skirt Album : Thirsty](https://www.youtube.com/watch?v=WYPyun0nMv0)<br/>
 🎶🎶🎶 [Jai Paul : Leak 04-13](https://www.youtube.com/watch?v=97YvkYlfibU)<br/>
 🎶🎶🎶 [Black Skirt Album : good luck to you girl scout](https://www.youtube.com/watch?v=xvG9iEHutxA)<br/>
-🎶🎶🎶 [양호원 : 오보에](https://www.youtube.com/watch?v=s844XpmJwwE)
+🎶🎶🎶 [양홍원 : 오보에](https://www.youtube.com/watch?v=s844XpmJwwE)
 <br/><br/>
 
 ---
