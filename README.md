@@ -43,6 +43,7 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 	- EfficientNet　　　　　　*github : https://github.com/yhy258/pytorch_EfficientNet*
 	- ViT　　　　　　          *github : https://github.com/yhy258/ViT-Simple*
 	- Swin Transformer(Non mask)    *github : https://github.com/yhy258/SwinTransformer_nonmask*
+	- SpinalNet(VGG5) 　　　*github : https://github.com/yhy258/Spinal_VGG_MNIST*
 - 💫 **Object Detection**
 	- FPN　　　　　　　　　　　*github : https://github.com/yhy258/FPN_Resnet*
 	- DETR (Just Architecture)　　　　*github : https://github.com/yhy258/DETR-For-Study*
