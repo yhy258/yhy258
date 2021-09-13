@@ -55,7 +55,7 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 	- VAE　　　　　　　　　　　　*github : https://github.com/yhy258/VAE*
 	- FARGAN　　　　　　　*github : https://github.com/yhy258/Simple_FARGAN*
 	- CircleGAN　　　　　　　*github : https://github.com/yhy258/Simple-Circle-GAN*
-- 💫 **VAE** https://github.com/yhy258/VariationalAutoEncoders-Pytorch  
+- 💫 **VAE**　　　　 https://github.com/yhy258/VariationalAutoEncoders-Pytorch  
 	- Standard VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/standard_vae.py*
 - 💫 **Super Resolution**
 	- SRCNN　　　　　　　　　　*github : https://github.com/yhy258/SRCNN*
