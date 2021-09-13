@@ -48,13 +48,15 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 	- FPN　　　　　　　　　　　*github : https://github.com/yhy258/FPN_Resnet*
 	- DETR (Just Architecture)　　　　*github : https://github.com/yhy258/DETR-For-Study*
 	- Deformable Attention Module (DETR)  *github : https://github.com/yhy258/Deformable_Attention__DeformableDETR*
-- 💫 **Generative**
+- 💫 **GAN**
 	- FID, IS (Evaluate GAN) 　　　　*github : https://github.com/yhy258/Pytorch_FID_IS_FOR_GAN*
 	- Conditional GAN　　　　*github : https://github.com/yhy258/ConditionalGAN*
 	- Accelerated WGAN-GP　　*github : https://github.com/yhy258/Accelerated-WGAN-GP*
 	- VAE　　　　　　　　　　　　*github : https://github.com/yhy258/VAE*
 	- FARGAN　　　　　　　*github : https://github.com/yhy258/Simple_FARGAN*
 	- CircleGAN　　　　　　　*github : https://github.com/yhy258/Simple-Circle-GAN*
+- 💫 **VAE** https://github.com/yhy258/VariationalAutoEncoders-Pytorch  
+	- Standard VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/standard_vae.py*
 - 💫 **Super Resolution**
 	- SRCNN　　　　　　　　　　*github : https://github.com/yhy258/SRCNN*
 	- SRGAN　　　　　　　　　　*github : https://github.com/yhy258/SRGAN*
