@@ -51,8 +51,7 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 - 💫 **GAN**
 	- FID, IS (Evaluate GAN) 　　　　*github : https://github.com/yhy258/Pytorch_FID_IS_FOR_GAN*
 	- Conditional GAN　　　　*github : https://github.com/yhy258/ConditionalGAN*
-	- Accelerated WGAN-GP　　*github : https://github.com/yhy258/Accelerated-WGAN-GP*
-	- VAE　　　　　　　　　　　　*github : https://github.com/yhy258/VAE*
+	- Accelerated WGAN-GP　　*github : https://github.com/yhy258/Accelerated-WGAN-GP*  
 	- FARGAN　　　　　　　*github : https://github.com/yhy258/Simple_FARGAN*
 	- CircleGAN　　　　　　　*github : https://github.com/yhy258/Simple-Circle-GAN*
 - 💫 **VAE**　　　　 https://github.com/yhy258/VariationalAutoEncoders-Pytorch  
