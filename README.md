@@ -57,7 +57,10 @@ I love to listen music (especially, Korean Indie Music) and exercise.
 - 💫 **VAE**　　　　 https://github.com/yhy258/VariationalAutoEncoders-Pytorch  
 	- Standard VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/standard_vae.py*  
 	- beta VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/beta_VAE.py*  
-	- VQ VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/vq_vae.py*
+	- VQ VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/vq_vae.py*  
+- 💫 **Flow**　　　　 https://github.com/yhy258/Flow-based-Pytorch  
+	- NICE　　　　　 *github :  https://github.com/yhy258/Flow-based-Pytorch/blob/master/NICE.py*  
+	- Glow　　　　　 *github :  https://github.com/yhy258/Flow-based-Pytorch/blob/master/glow.py*  
 - 💫 **Super Resolution**
 	- SRCNN　　　　　　　　　　*github : https://github.com/yhy258/SRCNN*
 	- SRGAN　　　　　　　　　　*github : https://github.com/yhy258/SRGAN*
