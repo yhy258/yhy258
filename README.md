@@ -21,20 +21,6 @@ Future Goals: I want to enter the graduate school I want and do the research I w
 I love to listen music (especially, Korean Indie Music) and exercise.
 
 ---
-
-<img align="right" height = "120" src="https://b-zinga.com/wp-content/uploads/2019/03/YouTube-logo-600x489.jpg"/>
-
-
-
-### Music Playlist 🎧
-
-<br/> 🎶🎶🎶 [Black Skirt Album : Thirsty](https://www.youtube.com/watch?v=WYPyun0nMv0)<br/>
-🎶🎶🎶 [Jai Paul : Leak 04-13](https://www.youtube.com/watch?v=97YvkYlfibU)<br/>
-🎶🎶🎶 [Black Skirt Album : good luck to you girl scout](https://www.youtube.com/watch?v=xvG9iEHutxA)<br/>
-🎶🎶🎶 [양홍원 : 오보에](https://www.youtube.com/watch?v=s844XpmJwwE)
-<br/><br/>
-
----
   
 ### My Github
 - 💫 **Classification**
