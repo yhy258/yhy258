@@ -11,15 +11,6 @@
 ## 저는 AI를 공부하는 학생입니다.
 ## I am a student who studies artificial intelligence.  
 
-- 👨‍💻  저는 컴퓨터 비전에 대해 공부를 열심히 하고 있습니다.  
-I’m currently working on Computer Vision technologies like Transformer, Gan etc.
-- 📚 지금은 수학에 대한 토대를 다지고 있고 비전의 여러 분야를 경험하려고 노력 중입니다.
-Now I am laying the foundation for mathematics and trying to experience various fields of vision.
-- 💪🏼 미래의 목표 :    
-
-- 🥳 Fun fact: 저는 음악(특히 한국 인디 음악) 을 듣는 것과 운동하는 것을 좋아합니다.  
-I love to listen music (especially, Korean Indie Music) and exercise.
-
 ---
   
 ### My Github
