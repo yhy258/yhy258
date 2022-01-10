@@ -46,6 +46,7 @@
 	- SRFBN　　　　　　　　　　*blog :https://deepseow.tistory.com/10?category=947210*  
 - 💫 **Unsupervised Learning**
 	- Context Prediction　　　　　　　　　　*github : https://github.com/yhy258/context_prediction_stl10*  
+	- Simple MoCo v1. (Non Parallel)　　　　　　　 *github : https://github.com/yhy258/MoCo_v1_cifar10*  
 - 💫 **Image Tracking Study**  
 	- SSD Object Detection　　　　　　*github : https://github.com/yhy258/ImageTrackingStudy/blob/main/SSD.ipynb*
 	- SORT Algorithm with explanation　　　　　　*github : https://github.com/yhy258/ImageTrackingStudy/blob/main/SORT.ipynb*
