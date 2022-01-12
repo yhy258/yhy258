@@ -32,6 +32,7 @@
 	- Accelerated WGAN-GP　　*github : https://github.com/yhy258/Accelerated-WGAN-GP*  
 	- FARGAN　　　　　　　*github : https://github.com/yhy258/Simple_FARGAN*
 	- CircleGAN　　　　　　　*github : https://github.com/yhy258/Simple-Circle-GAN*  
+	- Fast GAN　　　　　 *github : https://github.com/yhy258/SIMPLE_FASTGAN *
 - 💫 **VAE**　　　　 https://github.com/yhy258/VariationalAutoEncoders-Pytorch  
 	- Standard VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/standard_vae.py*  
 	- beta VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/beta_VAE.py*  
