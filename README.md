@@ -26,25 +26,26 @@
 	- FPN　　　　　　　　　　　*github : https://github.com/yhy258/FPN_Resnet*
 	- DETR (Just Architecture)　　　　*github : https://github.com/yhy258/DETR-For-Study*
 	- Deformable Attention Module (DETR)  *github : https://github.com/yhy258/Deformable_Attention__DeformableDETR*  
-- 💫 **GAN**
-	- FID, IS (Evaluate GAN) 　　　　*github : https://github.com/yhy258/Pytorch_FID_IS_FOR_GAN*
-	- Conditional GAN　　　　*github : https://github.com/yhy258/ConditionalGAN*
-	- Accelerated WGAN-GP　　*github : https://github.com/yhy258/Accelerated-WGAN-GP*  
-	- FARGAN　　　　　　　*github : https://github.com/yhy258/Simple_FARGAN*
-	- CircleGAN　　　　　　　*github : https://github.com/yhy258/Simple-Circle-GAN*  
-	- Fast GAN　　　　　 *github : https://github.com/yhy258/SIMPLE_FASTGAN*
-- 💫 **VAE**　　　　 https://github.com/yhy258/VariationalAutoEncoders-Pytorch  
-	- Standard VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/standard_vae.py*  
-	- beta VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/beta_VAE.py*  
-	- VQ VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/vq_vae.py*  
-- 💫 **Flow**　　　　 https://github.com/yhy258/Flow-based-Pytorch  
-	- NICE　　　　　 *github :  https://github.com/yhy258/Flow-based-Pytorch/blob/master/NICE.py*  
-	- Glow　　　　　 *github :  https://github.com/yhy258/Flow-based-Pytorch/blob/master/glow.py*  
-- 💫 **Super Resolution**
-	- SRCNN　　　　　　　　　　*github : https://github.com/yhy258/SRCNN*
-	- SRGAN　　　　　　　　　　*github : https://github.com/yhy258/SRGAN*
-	- EDSR, MDSR　　　　　　　*blog : https://deepseow.tistory.com/8?category=947210*
-	- SRFBN　　　　　　　　　　*blog :https://deepseow.tistory.com/10?category=947210*  
+- 💫 **Image Generation**
+	- 💫 **GAN**
+		- FID, IS (Evaluate GAN) 　　　　*github : https://github.com/yhy258/Pytorch_FID_IS_FOR_GAN*
+		- Conditional GAN　　　　*github : https://github.com/yhy258/ConditionalGAN*
+		- Accelerated WGAN-GP　　*github : https://github.com/yhy258/Accelerated-WGAN-GP*  
+		- FARGAN　　　　　　　*github : https://github.com/yhy258/Simple_FARGAN*
+		- CircleGAN　　　　　　　*github : https://github.com/yhy258/Simple-Circle-GAN*  
+		- Fast GAN　　　　　 *github : https://github.com/yhy258/SIMPLE_FASTGAN*
+	- 💫 **VAE**　　　　 https://github.com/yhy258/VariationalAutoEncoders-Pytorch  
+		- Standard VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/standard_vae.py*  
+		- beta VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/beta_VAE.py*  
+		- VQ VAE　　　　　 *github :  https://github.com/yhy258/VariationalAutoEncoders-Pytorch/blob/master/vq_vae.py*  
+	- 💫 **Flow**　　　　 https://github.com/yhy258/Flow-based-Pytorch  
+		- NICE　　　　　 *github :  https://github.com/yhy258/Flow-based-Pytorch/blob/master/NICE.py*  
+		- Glow　　　　　 *github :  https://github.com/yhy258/Flow-based-Pytorch/blob/master/glow.py*  
+	- 💫 **Super Resolution**
+		- SRCNN　　　　　　　　　　*github : https://github.com/yhy258/SRCNN*
+		- SRGAN　　　　　　　　　　*github : https://github.com/yhy258/SRGAN*
+		- EDSR, MDSR　　　　　　　*blog : https://deepseow.tistory.com/8?category=947210*
+		- SRFBN　　　　　　　　　　*blog :https://deepseow.tistory.com/10?category=947210*  
 - 💫 **Unsupervised Learning**
 	- Context Prediction　　　　　　　　　　*github : https://github.com/yhy258/context_prediction_stl10*  
 	- Simple MoCo v1. (Non Parallel)　　　　　　　 *github : https://github.com/yhy258/MoCo_v1_cifar10*  
@@ -53,6 +54,8 @@
 	- SORT Algorithm with explanation　　　　　　*github : https://github.com/yhy258/ImageTrackingStudy/blob/main/SORT.ipynb*
 	- Tracktor　　　　　　　　　　　*github :  https://github.com/yhy258/ImageTrackingStudy/blob/main/Tracktor.ipynb*
 	- SiamFC　　　　　　　　　　*github :  https://github.com/yhy258/ImageTrackingStudy/blob/main/SiamFC.ipynb*  
+- 💫 **Domain Adaptation**  
+	- DANN　　　　　　　*github :  https://github.com/yhy258/DANN_SVHN-MNIST/blob/main/DANN.ipynb*  
 - 💫 **3D**  
 	- PointNet　　　　　　　　*github :  https://github.com/yhy258/pytorch-PointNet*  
 
