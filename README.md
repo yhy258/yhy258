@@ -22,10 +22,7 @@
 	- Swin Transformer(Non mask)    *github : https://github.com/yhy258/SwinTransformer_nonmask*
 	- SpinalNet(VGG5) 　　　*github : https://github.com/yhy258/Spinal_VGG_MNIST*
 	- MLP-Mixer  　　　*github : https://github.com/yhy258/MLPMixer-pytorch*  
-- 💫 **Object Detection**
-	- FPN　　　　　　　　　　　*github : https://github.com/yhy258/FPN_Resnet*
-	- DETR (Just Architecture)　　　　*github : https://github.com/yhy258/DETR-For-Study*
-	- Deformable Attention Module (DETR)  *github : https://github.com/yhy258/Deformable_Attention__DeformableDETR*  
+
 - 💫 **Image Generation**
 	- 💫 **GAN**
 		- FID, IS (Evaluate GAN) 　　　　*github : https://github.com/yhy258/Pytorch_FID_IS_FOR_GAN*
