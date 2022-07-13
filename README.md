@@ -44,7 +44,9 @@
 		- EDSR, MDSR　　　　　　　*blog : https://deepseow.tistory.com/8?category=947210*
 		- SRFBN　　　　　　　　　　*blog :https://deepseow.tistory.com/10?category=947210*  
 	- 💫 **Score Matching Based Model**
-		- NCSN　　　　　　　　　　*github : https://github.com/yhy258/NCSN_pytorch*  
+		- NCSN　　　　　　　　　　*github : https://github.com/yhy258/NCSN_pytorch* 
+		- Score SDE(VESDE)　　　　　　*github : https://github.com/yhy258/NCSN_pytorch/blob/main/VE_SDE_tutorial.ipynb* 
+		
 
 - 💫 **Unsupervised Learning**
 	- Context Prediction　　　　　　　　　　*github : https://github.com/yhy258/context_prediction_stl10*  
