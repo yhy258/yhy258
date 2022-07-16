@@ -27,7 +27,6 @@
 	- 💫 **GAN**
 		- FID, IS (Evaluate GAN) 　　　　*github : https://github.com/yhy258/Pytorch_FID_IS_FOR_GAN*
 		- Conditional GAN　　　　*github : https://github.com/yhy258/ConditionalGAN*
-		- Accelerated WGAN-GP　　*github : https://github.com/yhy258/Accelerated-WGAN-GP*  
 		- FARGAN　　　　　　　*github : https://github.com/yhy258/Simple_FARGAN*
 		- CircleGAN　　　　　　　*github : https://github.com/yhy258/Simple-Circle-GAN*  
 		- Fast GAN　　　　　 *github : https://github.com/yhy258/SIMPLE_FASTGAN*
