@@ -125,7 +125,6 @@
 ---
 
 [website]: https://deepseow.tistory.com/
-[instagram]: https://www.instagram.com/oz__oo__/
 
 
 
