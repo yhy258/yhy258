@@ -61,7 +61,12 @@
 	- PointNet　　　　　　　　*github :  https://github.com/yhy258/pytorch-PointNet*  
 - 💫 **NLP**  
 	- BERT　　　　　　　　*github :  https://github.com/yhy258/BERT_colab_study*
-
+  
+  
+  
+- 💫 **개인 ML Study**  
+	- Kmeans Clustering　　　　　　　　*github : https://github.com/yhy258/ML_Study/blob/main/2d_clustering.ipynb*
+ 
 
 ---
 
