@@ -67,6 +67,7 @@
 - 💫 **개인 ML Study**  
 	- Kmeans Clustering　　　　　　　　*github : https://github.com/yhy258/ML_Study/blob/main/2d_clustering.ipynb*
 	- Samplings　　　　　　　　*github : https://github.com/yhy258/ML_Study/blob/main/Samplings.ipynb*
+	- DPMM(Dirichlet Process Mixture Model)　　　　　　　　*github : https://github.com/yhy258/ML_Study/blob/main/DPMM.ipynb*
  
  
 
